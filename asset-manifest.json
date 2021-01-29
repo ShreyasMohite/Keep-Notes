@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Keep-Notes/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Keep-Notes/static/js/main.6fbc671e.chunk.js",
+    "main.js.map": "/Keep-Notes/static/js/main.6fbc671e.chunk.js.map",
+    "runtime-main.js": "/Keep-Notes/static/js/runtime-main.6e74181c.js",
+    "runtime-main.js.map": "/Keep-Notes/static/js/runtime-main.6e74181c.js.map",
+    "static/css/2.beeb2f71.chunk.css": "/Keep-Notes/static/css/2.beeb2f71.chunk.css",
+    "static/js/2.dad28624.chunk.js": "/Keep-Notes/static/js/2.dad28624.chunk.js",
+    "static/js/2.dad28624.chunk.js.map": "/Keep-Notes/static/js/2.dad28624.chunk.js.map",
+    "index.html": "/Keep-Notes/index.html",
+    "static/css/2.beeb2f71.chunk.css.map": "/Keep-Notes/static/css/2.beeb2f71.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/Keep-Notes/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.dad28624.chunk.js.LICENSE.txt": "/Keep-Notes/static/js/2.dad28624.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/Keep-Notes/static/media/arrow_right.0897f985.svg",
+    "static/media/all.min.css": "/Keep-Notes/static/media/fa-solid-900.f4f93856.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e74181c.js",
+    "static/css/2.beeb2f71.chunk.css",
+    "static/js/2.dad28624.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.6fbc671e.chunk.js"
+  ]
+}
