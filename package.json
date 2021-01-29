@@ -1,5 +1,6 @@
 {
   "name": "keepnotes",
+  "homepage": "https://ShreyasMohite.github.io/Keep-Notes",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
